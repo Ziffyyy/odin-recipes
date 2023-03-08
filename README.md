@@ -1,2 +1,3 @@
 # odin-recipes
-This is my first project on HTML, by the end I hope to feel more comfortable with the basics and ready to move on to CSS
+On this project I'm going to create a basic recipe website, with and index page and a few recipes.
+By the end of this project I'm demonstrate my abilities with the very basics of HTML, and have finally a starting point.
